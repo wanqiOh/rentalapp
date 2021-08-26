@@ -1,6 +1,6 @@
 # rentalapp
 
-A new Flutter project.
+Industrial Machinery Renting Application can be classified as a is a minimum viable product (MVP) for machinery’s owners to showcase and rent their machinery to other companies with minimum price fluctuation. It is also a b2b platform that solves the high maintenance and repair fees problem mentioned and converts traditional procedure for renting industrial machinery to the cloud through the use of mobile technologies which simply means creating products and services geared toward other businesses.
 
 ## Getting Started
 
