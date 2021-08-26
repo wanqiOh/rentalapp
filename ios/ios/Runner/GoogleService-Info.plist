@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>53107802129-cqn1nccgt1e8ji9m0jp2dcv9u8lt701k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.53107802129-cqn1nccgt1e8ji9m0jp2dcv9u8lt701k</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>53107802129-0e0bf33r85kbee866474r33mn398agqq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCU7hfuRCP-YtlZRBwsfjS-2OauNMInss</string>
+	<key>GCM_SENDER_ID</key>
+	<string>53107802129</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.pinanclezenith.rentalapp</string>
+	<key>PROJECT_ID</key>
+	<string>rentalapp-fa5bd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rentalapp-fa5bd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:53107802129:ios:4ecfec2a02a7005cc6b1b0</string>
+</dict>
+</plist>
