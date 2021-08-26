@@ -39,7 +39,7 @@ This project is a starting point for a Flutter application that focus on Android
      6. Verify the AVD configuration is correct, and select Finish
      7. In Android Virtual Device Manager, click Run in the toolbar. The emulator starts up and displays the default canvas for your selected OS version and device.
 3. Cloning an Existing Repository
-   `git clone https://github`
+	`git clone https://github.com/wanqiOh/rentalapp.git`
 4. Go to File > Open File > rentalapp or rentalapp_POS
 5. Press on the play icon button or open terminal and enter "Flutter run" to run the code.
 
