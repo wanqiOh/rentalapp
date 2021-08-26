@@ -4,7 +4,7 @@ Industrial Machinery Renting Application can be classified as a is a minimum via
 
 Rentalapp is one of application that used to support the Industrial Machinery Renting Application which focus on the user of CUSTOMER and workflow of place renting order instantly 
 
-- Build With
+# Build With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 - [OneSignal Setup](https://documentation.onesignal.com/docs/flutter-sdk-setup)
 - [Flutter documentation](https://flutter.dev/docs)
