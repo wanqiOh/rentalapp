@@ -38,9 +38,17 @@ This project is a starting point for a Flutter application that focus on Android
      5. Under Emulated Performance, select Hardware - GLES 2.0 to enable hardware acceleration.
      6. Verify the AVD configuration is correct, and select Finish
      7. In Android Virtual Device Manager, click Run in the toolbar. The emulator starts up and displays the default canvas for your selected OS version and device.
-3. Cloning an Existing Repository
-	`git clone https://github.com/wanqiOh/rentalapp.git`
-4. Go to File > Open File > rentalapp or rentalapp_POS
-5. Press on the play icon button or open terminal and enter "Flutter run" to run the code.
+3. Cloning an Existing Repository `git clone https://github.com/wanqiOh/rentalapp.git`
+4. Press on the play icon button or open terminal and enter "Flutter run" to run the code.
+
+### Usage
+![rentalapp UI](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2Frentalapp.png?alt=media&token=23e8788f-1605-4b84-80eb-39b954ea457b)
+###### Features
+List of features for this application
+1. Filter and search keyword
+2. View the nearest rental companies
+3. View the renting price of offered industrial machinery
+4. Place a renting order
+5. Trackback history order
 
 ![rentalapp](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/email%2FbottomImage.PNG?alt=media&token=f766e653-0fd4-4e6d-980f-4aeaaae75024)
