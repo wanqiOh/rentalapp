@@ -3,7 +3,9 @@
 
 Industrial Machinery Renting Application can be classified as a is a minimum viable product (MVP) for machinery’s owners to showcase and rent their machinery to other companies with minimum price fluctuation. It is also a b2b platform that solves the high maintenance and repair fees problem mentioned and converts traditional procedure for renting industrial machinery to the cloud through the use of mobile technologies which simply means creating products and services geared toward other businesses.
 
-**rentalapp** is one of mobile application that used to support the Industrial Machinery Renting Application which focus on the user of **Customers** and **Workflow of Place Renting Order** instantly 
+**rentalapp** is one of mobile application that used to support the Industrial Machinery Renting Application which focus on the user of **Customers** and **Workflow of Place Renting Order** instantly
+
+If you want to know more details about **Industrial Machinery Renting Application** can be refer from [!Demo Video of Industrial Machinery Renting Application](https://www.youtube.com/watch?v=or0nWaCgavs&t=112s)
 
 ###### Build With
 Here are three major frameworks that used to build this project.
