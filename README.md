@@ -5,7 +5,7 @@ Industrial Machinery Renting Application can be classified as a is a minimum via
 
 **rentalapp** is one of mobile application that used to support the Industrial Machinery Renting Application which focus on the user of **Customers** and **Workflow of Place Renting Order** instantly
 
-If you want to know more details about **Industrial Machinery Renting Application** can be refer from [!Demo Video of Industrial Machinery Renting Application](https://www.youtube.com/watch?v=or0nWaCgavs&t=112s)
+If you want to know more details about **Industrial Machinery Renting Application** can be refer from [Youtube](https://www.youtube.com/watch?v=or0nWaCgavs&t=112s)
 
 ###### Build With
 Here are three major frameworks that used to build this project.
